@@ -6,3 +6,6 @@ thearms are meant to be 6MM thick wich will be very hard to break,
 the arm locking system leaves no place for playans incorporates a TPU piece that will take out any slack du to cut tolerences
 
 all the STL required to run this frame are included in here!
+
+
+![image](https://github.com/user-attachments/assets/e2aa09b7-37d6-45db-a3c5-282a9cdbfd35)
